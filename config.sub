@@ -1750,7 +1750,7 @@ case $os in
 	     | os2* | vos* | palmos* | uclinux* | nucleus* | morphos* \
 	     | scout* | superux* | sysv* | rtmk* | tpf* | windiss* \
 	     | powermax* | dnix* | nx6 | nx7 | sei* | dragonfly* \
-	     | skyos* | haiku* | rdos* | toppers* | drops* | es* \
+	     | skyos* | haiku* | rdos* | toppers* | drops* | es* | cykusz* \
 	     | onefs* | tirtos* | phoenix* | fuchsia* | redox* | bme* \
 	     | midnightbsd* | amdhsa* | unleashed* | emscripten* | wasi* \
 	     | nsk* | powerunix* | genode* | zvmoe* | qnx* | emx* | zephyr* \
